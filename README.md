@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sona Natarajan</h1>
+<h3 align="center">QA Automation Engineer | Java • Selenium • TestNG</h3>
 
-<!--
-**SONANATARAJAN/sonanatarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+📍 Chennai, India &nbsp;•&nbsp;
+📧 <a href="mailto:sonanatarajan02@gmail.com">Email</a> &nbsp;•&nbsp;
+💻 <a href="https://github.com/sonanatarajan">GitHub</a> &nbsp;•&nbsp;
+🌐 <a href="https://sonanatarajanportfolio.netlify.app/">Portfolio</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+⚡ QA Automation Engineer with **2+ years of experience**  
+⚙️ Skilled in **Java + Selenium + TestNG** automation  
+🔁 Expert in **Regression, API & UI Testing**  
+🚀 Strong in **Agile & CI/CD Pipelines**
+
+---
+
+## 🔗 Explore My Work
+
+<p align="center">
+  <a href="https://sonanatarajanportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,selenium,git,github,docker,linux,jenkins,mysql,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonanatarajan&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonanatarajan&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🧪 Automation Focus
+- ✅ Selenium WebDriver (Java)
+- ✅ TestNG | Cucumber (BDD)
+- ✅ API Testing (Postman, Spring Boot)
+- ✅ CI/CD with Jenkins
+- ✅ UI + Backend Validation
+- ✅ Telecom & SA Domain Automation
+
+---
+
+## 🏆 Highlights
+- 🚀 Reduced manual testing effort by **45%**
+- 🧪 Automated **60+ regression test cases**
+- 📡 Worked on **Airtel SA & B2C Projects**
+- 🔔 Netcool mediation → UI Alarm Validation Automation
+
+---
+
+## 🤝 Let’s Connect
+<p align="center">
+  <a href="mailto:sonanatarajan02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sonanatarajan">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://sonanatarajanportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+</p>
