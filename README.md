@@ -4,22 +4,33 @@
 <p align="center">
 📍 Chennai, India &nbsp;•&nbsp;
 📧 <a href="mailto:sonanatarajan02@gmail.com">Email</a> &nbsp;•&nbsp;
-💻 <a href="https://github.com/sonanatarajan">GitHub</a>
+💻 <a href="https://github.com/sonanatarajan">GitHub</a> &nbsp;•&nbsp;
+🌐 <a href="https://sonanatarajanportfolio.netlify.app/">Portfolio</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 ⚡ QA Automation Engineer with **2+ years of experience**  
-⚙️ Specialized in **Java + Selenium + TestNG automation frameworks**  
-🔁 Strong in **Manual, API, and Regression Testing**  
-🚀 Working in **Agile/Scrum & CI/CD environments**
+⚙️ Skilled in **Java + Selenium + TestNG** automation  
+🔁 Expert in **Regression, API & UI Testing**  
+🚀 Strong in **Agile & CI/CD Pipelines**
+
+---
+
+## 🔗 Explore My Work
+
+<p align="center">
+  <a href="https://sonanatarajanportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,selenium,git,github,docker,linux,jenkins,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,selenium,git,github,docker,linux,jenkins,mysql,postman" />
 </p>
 
 ---
@@ -37,7 +48,8 @@
 - ✅ TestNG | Cucumber (BDD)
 - ✅ API Testing (Postman, Spring Boot)
 - ✅ CI/CD with Jenkins
-- ✅ Telecom & SA Domain Testing
+- ✅ UI + Backend Validation
+- ✅ Telecom & SA Domain Automation
 
 ---
 
@@ -45,12 +57,19 @@
 - 🚀 Reduced manual testing effort by **45%**
 - 🧪 Automated **60+ regression test cases**
 - 📡 Worked on **Airtel SA & B2C Projects**
-- 🔔 Netcool → UI Alarm Validation Automation
+- 🔔 Netcool mediation → UI Alarm Validation Automation
 
 ---
 
 ## 🤝 Let’s Connect
 <p align="center">
-<a href="mailto:sonanatarajan02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/sonanatarajan"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+  <a href="mailto:sonanatarajan02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sonanatarajan">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://sonanatarajanportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
 </p>
