@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 ⚡ QA Automation Engineer with **2+ years of experience**  
 ⚙️ Skilled in **Java + Selenium + TestNG** automation  
 🔁 Expert in **Regression, API & UI Testing**  
