@@ -1,79 +1,56 @@
-# Hi there, I'm Sona Natarajan 👋
+<h1 align="center">Hi 👋, I'm Sona Natarajan</h1>
+<h3 align="center">QA Automation Engineer | Java • Selenium • TestNG</h3>
 
-**📍 Chennai, India**  
-**📧 Email:** sonanatarajan02@gmail.com  
-**📞 Contact:** +91 93451 80370  
-**💻 GitHub:** [github.com/sonanatarajan](https://github.com/sonanatarajan)
-
----
-
-## About Me
-I'm a **QA Automation Engineer** with 2+ years of experience in both **manual and automated testing**. I love turning complex testing scenarios into robust automation scripts and improving software quality with precision and creativity.  
-
-I enjoy building **Automation Frameworks** using **Java, Selenium WebDriver, TestNG, and Cucumber (BDD)**, validating APIs, and integrating CI/CD pipelines using **Jenkins**. I thrive in **Agile/Scrum environments** and enjoy exploring new tools and technologies to streamline processes.
+<p align="center">
+📍 Chennai, India &nbsp;•&nbsp;
+📧 <a href="mailto:sonanatarajan02@gmail.com">Email</a> &nbsp;•&nbsp;
+💻 <a href="https://github.com/sonanatarajan">GitHub</a>
+</p>
 
 ---
 
-## Skills & Tools
-
-### Programming & Scripting
-- **Java**, **SQL**, **Shell Scripting**
-
-### Automation & Testing
-- **Selenium WebDriver**, **TestNG**, **Cucumber (BDD)**
-- **REST API Testing**, **Postman**, **Spring Boot Testing**
-- **Data-Driven, HAPI & Backend Testing Frameworks**
-
-### DevOps & Tools
-- **Jenkins (CI/CD)**, **Git & GitHub**, **Docker**, **IntelliJ IDEA**, **Linux**
-
-### Testing Types
-- Functional, Regression, Smoke, Integration, System, Performance, Load Testing
-
-### Test Management
-- **Redmine**, Test Plan & Test Strategy, Defect Life Cycle, QA Processes
+## 🚀 About Me
+⚡ QA Automation Engineer with **2+ years of experience**  
+⚙️ Specialized in **Java + Selenium + TestNG automation frameworks**  
+🔁 Strong in **Manual, API, and Regression Testing**  
+🚀 Working in **Agile/Scrum & CI/CD environments**
 
 ---
 
-## Projects & Highlights
-- **EIG Ticket Automation System**
-  - Automated end-to-end ticketing workflows, reducing manual testing effort by **45%**
-  - Developed and executed **60+ Automated Regression Test Cases**
-  - Performed Functional, Regression, Smoke, and Integration Testing  
-
-- **Airtel Service Affecting (SA) Project**
-  - Automated UI alarm validation and backend data verification
-  - Conducted performance and load testing to ensure SLA compliance
+## 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,selenium,git,github,docker,linux,jenkins,mysql" />
+</p>
 
 ---
 
-## Education
-**Bachelor of Engineering (B.E.)** – Electronics and Communication Engineering  
-University College of Engineering, Villupuram  
-**CGPA:** 8.4 / 10 | **Graduation:** 2024
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonanatarajan&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonanatarajan&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
-## Certifications & Learning
-- **Jenkins CI/CD for Automation Engineers** – Hands-on learning  
-- **AI Tools & Automation Workshop** – be10x  
-- **n8n Workflow Automation** – Udemy (In Progress)  
+## 🧪 Automation Focus
+- ✅ Selenium WebDriver (Java)
+- ✅ TestNG | Cucumber (BDD)
+- ✅ API Testing (Postman, Spring Boot)
+- ✅ CI/CD with Jenkins
+- ✅ Telecom & SA Domain Testing
 
 ---
 
-## Extra-Curricular
-- 🏓 3rd Place – Table Tennis, UCET  
-- 🏀 3rd Place – Basketball, Zonal Level  
+## 🏆 Highlights
+- 🚀 Reduced manual testing effort by **45%**
+- 🧪 Automated **60+ regression test cases**
+- 📡 Worked on **Airtel SA & B2C Projects**
+- 🔔 Netcool → UI Alarm Validation Automation
 
 ---
 
-## Hobbies & Interests
-- Continuous learning of new technologies  
-- Daily code commits and projects on GitHub  
-- Reading tech books and expanding my knowledge  
-
----
-
-## Connect with Me
-I'm always open to collaborating on **open-source projects, QA automation challenges, or just tech conversations**.  
-Let's connect! 🚀
+## 🤝 Let’s Connect
+<p align="center">
+<a href="mailto:sonanatarajan02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/sonanatarajan"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+</p>
