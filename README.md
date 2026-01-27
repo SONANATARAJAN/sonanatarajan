@@ -11,7 +11,7 @@
 ---
 
 ## About Me
-⚡ QA Automation Engineer with **2+ years of experience**  
+⚡ QA Automation Engineer with **2+ years of experience and active daily GitHub contributions**
 ⚙️ Skilled in **Java + Selenium + TestNG** automation  
 🔁 Expert in **Regression, API & UI Testing**  
 🚀 Strong in **Agile & CI/CD Pipelines**
@@ -32,6 +32,29 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,selenium,git,github,docker,linux,jenkins,mysql,postman" />
 </p>
+
+## 📊 GitHub Activity & Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonanatarajan&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sonanatarajan&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+
+
+## 📈 Contribution Activity (Recent)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonanatarajan&theme=tokyonight" />
+</p>
+
+
+## 🔥 Daily GitHub Activity
+
+- 📌 Actively maintaining **daily GitHub commit streaks**
+- 🧩 Regularly practicing **automation scripts, backend validation, and test frameworks**
+- 🚀 Consistent hands-on learning through **daily commits and small improvements**
+
 
 ---
 
