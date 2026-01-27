@@ -11,7 +11,7 @@
 ---
 
 ## About Me
-⚡ QA Automation Engineer with **2+ years of experience and active daily GitHub contributions**
+QA Automation Engineer with 2+ years of experience
 ⚙️ Skilled in **Java + Selenium + TestNG** automation  
 🔁 Expert in **Regression, API & UI Testing**  
 🚀 Strong in **Agile & CI/CD Pipelines**
