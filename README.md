@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sona Natarajan</h1>
+<h1 align="center">Hi! , I'm Sona Natarajan</h1>
 <h3 align="center">QA Automation Engineer | Java • Selenium • TestNG</h3>
 
 <p align="center">
