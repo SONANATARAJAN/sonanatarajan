@@ -18,7 +18,7 @@ QA Automation Engineer with 2+ years of experience
 
 ---
 
-## 🔗 Explore My Work
+## 🔗 Explore My Works
 
 <p align="center">
   <a href="https://sonanatarajanportfolio.netlify.app/">
